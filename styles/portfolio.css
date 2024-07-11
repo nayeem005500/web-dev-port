@@ -117,4 +117,18 @@ main{
 main section{
     margin: 120px 0px;
 }
+.resume-container{
+    display: flex;
+    gap: 25px;
+}
+.btn-primary{
+    margin: 50px;
+    font-size: 25px;
+    padding: 20px;
+    background-color: #fd6e0a;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
 
